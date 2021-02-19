@@ -3,9 +3,9 @@
 | Cours  | Done  |
 | -------|-------|
 | n°1    | :white_check_mark: |
-| n°2    | :watch: |
-| n°3    |
-| n°4    |
+| n°2    | :white_check_mark: |
+| n°3    | :white_check_mark: |
+| n°4    | :watch: |
 | n°5    |
 | n°6    |
 | n°7    |
